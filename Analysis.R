@@ -25,7 +25,7 @@ if(!require(pwr)){install.packages("pwr")}
 # ##############################################################
 #Import *.csv data
 
-rd <- read.csv("C:/Users/seileri/Desktop/R data/RD calc.csv")
+rd <- read.csv("Data.csv")
 
 View(rd)
 str(rd)
