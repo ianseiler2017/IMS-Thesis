@@ -40,7 +40,6 @@ str(rd)
 # #rd$Chemical <- as.factor(rd$Chemical)
 # #rd$Conc <- as.factor(rd$Conc)
 
-#CPA -- change replicate to a factor for the block
 rd$Replicate<-as.factor(rd$Replicate)
 
 # ##############################################################
